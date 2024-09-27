@@ -13,3 +13,4 @@
 ![a642343dd1164db50208a3883aceb395](https://github.com/user-attachments/assets/b80a96d1-0826-4c57-ac70-97cf0b7238bb)
 
  ```я люблю пирожки ```
+[PI](PI.md)
